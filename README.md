@@ -24,5 +24,5 @@ download the given liveproject.zip file and unzip it
  <p>(Refresh the page in case table is not loadaded and open api end point also to make sure that they working properly on the live server)</p>
  
  <h1>Working </h1>
- <p>You will see differnt conditions link in nav bar according to the conditions given in the assignment, just click on it and see the different result.<p>
+ <p>You will see a different conditions link in the nav bar according to the conditions given in the assignment, just click on it and see the different result.<p>
 
