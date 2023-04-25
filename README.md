@@ -20,4 +20,6 @@ download the given liveproject.zip file and unzip it
     
  <h2>Working URL</h2>
  Here is the live working of the code:-https://master--eclectic-trifle-d29473.netlify.app/
+ 
+ <p>(Refresh the page in case table is not loadaded)</p>
 
