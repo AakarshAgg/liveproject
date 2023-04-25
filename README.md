@@ -21,5 +21,8 @@ download the given liveproject.zip file and unzip it
  <h2>Working URL</h2>
  Here is the live working of the code:-https://master--eclectic-trifle-d29473.netlify.app/
  
- <p>(Refresh the page in case table is not loadaded)</p>
+ <p>(Refresh the page in case table is not loadaded and open api end point also to make sure that they working properly on the live server)</p>
+ 
+ <h1>Working </h1>
+ <p>You will see differnt conditions link in nav bar according to the conditions given in the assignment, just click on it and see the different result.<p>
 
