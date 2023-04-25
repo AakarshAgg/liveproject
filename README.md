@@ -11,10 +11,10 @@ download the given zip file and unzip it
 2)Install all the node modules by using command "npm install"<br>
 3)To start the code us command "npm start"
 
-<h1>Database<h1>
+<h1>Database</h1>
   sample json file is uploaded in mongoDB atlas
   
-  <h1>API END POINTS<h1>
+  <h1>API END POINTS</h1>
     api end points are here:-https://apis-n2ar.onrender.com/
     
     
